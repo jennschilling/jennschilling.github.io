@@ -23,10 +23,6 @@
   </url>
   
   <url>
-    <loc>/rudi-website/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/</loc>
   </url>
   
@@ -36,6 +32,10 @@
   
   <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/rudi-website/</loc>
   </url>
   
   <url>
